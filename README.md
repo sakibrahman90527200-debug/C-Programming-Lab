@@ -3,6 +3,23 @@
 ## 📖 Overview
 This repository contains my C Programming laboratory assignments, practice problems, and solutions developed during my B.Sc. in Computer Science & Engineering at Daffodil International University.
 
+## 📌 Project: Student Assignment System
+
+This project is developed using C programming language. It helps manage student assignment information and demonstrates the practical use of:
+
+- Functions
+- Arrays
+- Loops
+- Conditional Statements
+- User Input/Output
+
+### Features
+
+- Add Student Information
+- Store Assignment Records
+- Display Assignment Details
+- Simple Menu-Driven Interface
+
 ---
 
 ## 🎯 Topics Covered
